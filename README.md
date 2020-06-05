@@ -2,8 +2,8 @@
 
 CARA PAKAI
 
-Ekstrak file ini ke dalam folder htdocs
+1. Ekstrak file ini ke dalam folder htdocs
 
-Jalankan Apcahe
+2. Jalankan Apcahe
 
-buka localhost/sda-gebi
+3. buka localhost/sda-gebi
